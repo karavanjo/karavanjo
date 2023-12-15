@@ -2,7 +2,7 @@
 
 ## Links
 
-- 🐦 https://twitter.com/karavanjo
+- 🐦 https://twitter.com/karavanjo_dev
 - 📒 https://stackoverflow.com/users/1212100/karavanjo
 
 ## The Summing Up
